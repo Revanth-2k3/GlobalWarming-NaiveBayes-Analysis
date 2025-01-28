@@ -46,7 +46,7 @@ Scikit-learn
 
 Jupyter Notebook (optional, for interactive analysis)
 
-Dataset:
+Dataset: https://drive.google.com/file/d/1kvGpDgnkvK7steb5gDIrlxUIw_ZIF1KU/view?usp=drive_link
 
 The dataset used in this project is named global_warming_dataset.csv. It contains historical data on various climate-related metrics across different countries and years. Ensure the dataset is placed in the appropriate directory before running the code.
 
